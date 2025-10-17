@@ -1,2 +1,1 @@
-# mtc-repo-5581
-Code for MTC
+# This repository is for infra developers.
